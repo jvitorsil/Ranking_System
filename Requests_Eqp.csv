@@ -1,0 +1,13 @@
+Setor,Nome do Equipamento,Classe de Risco,Valor,Garantia,Tempo Médio entre Falhas,Prioridade interna do setor,Impacto do equipamento
+AGENCIA TRANSFUSIONAL,PIPETA,Baixo risco,100,Não,Baixo,Baixa,Não
+AMBULATORIO,RAIO-X,Alto risco,100,Não,Médio,Média,Sim
+ASSISTENCIA SOCIAL E SAUDE MENTAL,GLICOSIMETRO,Médio risco,100,Não,Médio,Baixa,Não
+CARDIOLOGIA,ULTRASSOM,Baixo risco,100,Não,Alto,Média,Sim
+CENTRO CIRURGICO,SERRA CIRURGICA OSSEA PNEUMATICA OSCILANTE,Alto risco,100,Não,Baixo,Alta,Sim
+CLINICA MEDICA,MONITOR MULTIPARAMETRICO,Baixo risco,100,Não,Médio,Média,Não
+CME,AUTOCLAVE GRANDE PORTE,Baixo risco,100,Não,Baixo,Alta,Sim
+ENFERMARIA,BOMBA INFUSAO SERINGA,Alto risco,100,Não,Alto,Média,Não
+INTERNACAO ONCOLOGIA,ELETROCARDIOGRAFO,Médio risco,100,Sim,Médio,Alta,Não
+PRONTO SOCORRO,MONITOR MULTIPARAMETRICO,Baixo risco,100,Não,Baixo,Baixa,Sim
+PROPEDEUTICA,MAMOGRAFO,Baixo risco,100,Não,Baixo,Alta,Sim
+UTI,DESFIBRILADOR-CARDIOVERSOR,Alto risco,100,Sim,Médio,Baixa,Não
